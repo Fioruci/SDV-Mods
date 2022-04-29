@@ -155,7 +155,7 @@
     "warp.jojamart": "Mercado Joja",
     "warp.movie-theater": "Cinema",
     "warp.museum": "Museu",
-    "warp.saloon": "Saloon",
+    "warp.saloon": "Salão",
     "warp.sewer": "Esgotos",
 
     // forest
@@ -178,12 +178,12 @@
 
     // island
     // TODO
-    "warp-section.island": "Ginger Island",
-    "warp.forge": "Forge",
-    "warp.island-farm": "Island Farm",
-    "warp.dwarf-shop": "Volcano Dwarf Shop",
-    "warp.field-office": "Field Office",
-    "warp.leo-house": "Leo's House",
+    "warp-section.island": "Ilha Gengibre",
+    "warp.forge": "Forja",
+    "warp.island-farm": "Fazenda da Ilha",
+    "warp.dwarf-shop": "Loja do Anão do Vulcão",
+    "warp.field-office": "Escritório do Campo",
+    "warp.leo-house": "Casa do Leo",
 
     // desert
     "warp-section.desert": "Deserto",
